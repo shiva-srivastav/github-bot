@@ -1,0 +1,26 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "i am a hacker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacker123shiva/github-bot.git"
+  },
+  "author": "Hacker Shiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hacker123shiva/github-bot/issues"
+  },
+  "homepage": "https://github.com/hacker123shiva/github-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.7",
+    "random": "^4.1.0",
+    "simple-git": "^3.15.1"
+  }
+}
