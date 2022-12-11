@@ -27,6 +27,6 @@ const makeCommit= (n)=>{
 }
  
 
-makeCommit(4000);
+makeCommit(1);
 //git commit --date =
  
