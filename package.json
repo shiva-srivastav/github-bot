@@ -8,19 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hacker123shiva/github-bot.git"
+    "url": "git+https://github.com/shiva-srivastav/github-bot.git"
   },
-  "author": "Hacker Shiva",
+  "author": "Shiva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hacker123shiva/github-bot/issues"
+    "url": "https://github.com/shiva-srivastav/github-bot/issues"
   },
-  "homepage": "https://github.com/hacker123shiva/github-bot#readme",
+  "homepage": "https://github.com/shiva-srivastav/github-bot#readme",
   "dependencies": {
+    "github-bot": "file:",
     "jsonfile": "^6.1.0",
     "moment": "^2.29.4",
     "node-fetch": "^2.6.7",
     "random": "^4.1.0",
     "simple-git": "^3.15.1"
-  }
+  },
+  "type": "module"
 }
